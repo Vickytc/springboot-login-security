@@ -1,2 +1,4 @@
-# springboot-login-security
-this is a project of Java springboot security project, including login authentication and authorization.
+# SpringBoot整合SpringSecurity+JWT+Redis
+
+#介绍
+SpringBoot整合SpringSecurity+JWT+Redis完整代码
